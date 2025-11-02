@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to the BIOML Lab 👋</h1>
 
 <h2 align="center">
-  <strong>Bioinformatics, Imaging & Omics using Machine Learning</strong> Lab
+  <strong>Bioinformatics, Imaging & Omics using Machine Learning</strong>
 </h2>
 <p align="center">
   A collaborative of young researchers from Bangladesh to foster open, collaborative research.
